@@ -1,0 +1,19 @@
+to,subject,body
+oferty@dostawca-a.pl,Zapytanie ofertowe – Projekt – 2025-10-27,"Dzień dobry,
+Prosimy o wycenę poniższych pozycji dla projektu MF Production:
+- RURA EN10357 41x1,5 304L | 2 m
+- ZAW.KUL.2-CZ.0.1/2"" GG 316 | 1 st
+
+Prosimy o termin realizacji i warunki płatności. Termin odpowiedzi: 2025-10-27 + 3 dni.
+Z poważaniem,
+Termoinstal
+"
+sprzedaz@dostawca-b.pl,Zapytanie ofertowe – Projekt – 2025-10-27,"Dzień dobry,
+Prosimy o wycenę poniższych pozycji dla projektu MF Production:
+- RURA EN10357 41x1,5 304L | 2 m
+- ZAW.KUL.2-CZ.0.1/2"" GG 316 | 1 st
+
+Prosimy o termin realizacji i warunki płatności. Termin odpowiedzi: 2025-10-27 + 3 dni.
+Z poważaniem,
+Termoinstal
+"

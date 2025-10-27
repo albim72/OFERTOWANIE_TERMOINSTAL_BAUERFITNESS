@@ -1,0 +1,1 @@
+na podstawie załączonych 2 faktur w formacie pdf przekalkuluj koszty uwzględniając metodę zawartą w pliku pythona main.py oraz wszelkie dane. Wynik przedstaw na szablonie załączonym jako plik excela. 
